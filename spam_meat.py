@@ -7,9 +7,8 @@ spam = open("meat")
 
 while True:
     for word in spam:
-        pyautogui.typewrites 
+        pyautogui.typewrite(word)
         pyautogui.press("enter")
-
 # 
 #
 #
